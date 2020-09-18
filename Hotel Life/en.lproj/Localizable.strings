@@ -1,0 +1,220 @@
+/* 
+  Localizable.strings
+  Hotel Life
+
+  Created by jasvinders.singh on 9/26/17.
+  Copyright © 2017 jasvinders.singh. All rights reserved.
+*/
+
+//TITLE
+"Home" = "Home";
+"Trump bucks" = "Trump Bucks";
+"Dezer Bucks" = "Dezer Bucks";
+"How's your stay?" = "How's your stay?";
+"How's your experience?" = "How's your\nexperience?";
+"Food" = "Food";
+"Beverages" = "Beverages";
+"post_meridian" = "PM";
+"ante_meridian" = "AM";
+"Maintenance Request" = "Maintenance Request";
+"Total" = "Total";
+"Modify" = "Modify";
+"Cancel" = "Cancel";
+"Confirm" = "Confirm";
+"Call Department" = "Call Department";
+"Order" = "Order";
+"Proceed" = "Proceed";
+"Required" = "Required";
+"Breakfast Menu" = "Breakfast Menu";
+"Lunch Menu" = "Lunch Menu";
+"Dinner Menu" = "Dinner Menu";
+"All day dining" = "All day dining";
+"Mobile Check Out" = "Mobile Check Out";
+"Welcome" = "Welcome";
+"Disclaimer" = "Disclaimer";
+"AgreeTerms" = "Please agree to the terms.";
+"NumberOfPeople" = "Number of People";
+"Therapist" = "Therapist";
+"DailyEvent" = "Daily Event Schedule";
+"Room Number" = "Room Number";
+"Room Temprature" = "Room Temprature";
+"Order Number" = "Order Number";
+"Sub Total" = "Sub Total:";
+"Total Discount" = "Total Discount:";
+"Sub Total After Discount" = "Sub Total After Discount:";
+"Tax" = "Tax:";
+"Order Status" = "Order Status:";
+"Preparation Time" = "Preparation Time:";
+"Order Time" = "Order Time:";
+"Delivery Time" = "Delivery Time:";
+"StateTax" = "State Tax:";
+"ServiceCharge" = "Service Charge:";
+"DeliveryCharge" = "Delivery Charge:";
+"Date" = "Date";
+"Duration" = "Duration: ";
+"Instructor" = "Instructor required: ";
+"How Many" = "How many would you like?";
+"Checked out" = "This booking has been checked out. For more information kindly contact front desk.";
+"Room Charge" = "Room Charge";
+"Credit Card" = "Credit Card";
+"Cash" = "Cash";
+"HowToPay?" = "How would you like to pay?";
+"Tenant" = "Tenant";
+"Owner" = "Owner";
+"Resident Photo Id" = "Resident Photo Id";
+"Trump Palace Resident" = "Trump Palace Resident";
+"Trump Royale Resident" = "Trump Royale Resident";
+"Hotel Guest" = "Hotel Guest";
+"BeachNote" = "Note: Each section one row. Approximately 5 chairs wide.";
+"PickSection" = " Please pick the closest section to where you are sitting so we can find you ";
+"BeachLocation" = "Beach Location";
+"Bowling Reservation" = "Bowling Reservation";
+"Reservation Name:" = "Reservation Name:";
+"Kids:" = "Kids:";
+"Number of people:" = "Number of people:";
+"Name:" = "Name:";
+"Email:" = "Email:";
+"Duration:" = "Duration:";
+"Date:" = "Date:";
+"Time:" = "Time:";
+"Model:" = "Model:";
+"Make:" = "Make:";
+"Year:" = "Year:";
+"Body Style:" = "Body Style:";
+"Transmission:" = "Transmission:";
+"Description:" = "Description:";
+"Movie:" = "Movie:";
+"Choose Date" = "Choose Date";
+"Choose Time" = "Choose Time";
+
+"Status" = "Status";
+"Card Number" = "Card Number";
+"Balance" = "Balance";
+"Tickets" = "Tickets";
+"Bonus" = "Bonus";
+
+
+//PLACEHOLDER
+"Email" = "E-mail";
+"Password" = "Password";
+"Birthday (Month and Day)" = "Birthday (Month and Day)";
+"Anniversary (Month and Day)" = "Anniversary (Month and Day)";
+"Add Comment" = "Add Comment";
+"Question" = "Question...";
+"Special Request" = "Enter Special Request...";
+"Select Occasion" = "Select Occasion";
+"Select Duration" = "Select Duration";
+"Select_Payment" = " Select Payment Option";
+"Unit Number" = "Unit Number";
+"Choose Duration" = "Choose Duration";
+
+
+
+//BUTTON_TITLE
+"Update" = "Update";
+"Next" = "Next";
+"Continue" = "Continue";
+"Close now" = "Close now";
+"Submit" = "Submit";
+"Change Request" = "Change Request";
+"Customer Support" = "Customer Support";
+"I_AGREE" = "I agree to these terms and conditions.";
+"Yes" = "Yes";
+"No" = "No";
+"Order History" = "Order History";
+"Go Back" = "Go Back";
+"Add Card" = "Add Card";
+"Recharge" = "Recharge";
+
+//LOADER_TEXT
+"Loading" = "Loading";
+"Updating" = "Updating";
+"Signing In" = "Signing In";
+"Signing Up" = "Signing Up";
+"Logging Out" = "Logging Out";
+
+//ALERTSTRING
+"Go Hotel Life" = "Go Hotel Life";
+"Error" = "Error";
+"Required" = "Required";
+"OK" = "OK";
+"Please enter a valid Name." = "Please enter a valid Name.";
+"Please enter a valid email address." = "Please enter a valid email address.";
+"Please enter a valid phone number." = "Please enter a valid phone number.";
+"Please enter a valid date in format MM/DD." = "Please enter a valid date in format MM/DD.";
+"Please enter a valid city." = "Please enter a valid city.";
+"Please select a country." = "Please select a country.";
+"Please enter at least 6 character password." = "Please enter at least 6 character password.";
+"Please enter a valid booking number" = "Please enter a valid booking number";
+"Confirm Password is not matching with Password." = "Confirm Password is not matching with Password.";
+"We have emailed you a link to reset your password." = "We have emailed you a link to reset your password.";
+"Select Language" = "Select Language";
+"English" = "English";
+"Spanish" = "Spanish";
+"Portuguese" = "Portuguese";
+"Russian" = "Russian";
+"In order to change the language, the App must be closed and reopened by you." = "In order to change the language, the App must be closed and reopened by you.";
+"App restart required" = "App restart required";
+"Thanks for Feedback" = "Thanks for your feedback.";
+"You have reached to the maximum limit for this item." = "You have reached to the maximum limit for this item.";
+"Thanks" = "Thanks";
+"Posted" = "Posted";
+"Please select future Date & Time." = "Please select future Date & Time.";
+"Facebook email permission is required." = "Facebook email permission is required.";
+"Please select an item." = "Please select an item.";
+"Please enter required quantity." = "Please enter required quantity.";
+"Please enter room number." = "Please enter room number";
+"Please enter your comment." = "Please enter your comment.";
+"Please enter some text(Max. 140)." = "Please enter some comment(Max. 140 characters).";
+"Please enter some comment." = "Please enter some comment.";
+"Please enter your chair number." = "Please enter your chair number.";
+"Order not cancelled." = "Order is not cancelled, For more information please contact staff member.";
+"Order cancelled." = "Order has been cancelled.";
+"Try again" = "Kindly try again.";
+"DiscountText" = "One time only %@ discount for reservation through the app.";
+
+"CancelOrder" = "Do you want to cancel this order?";
+"ChairRoomNumber" = "Chair/Room Number";
+"ChairNumber" = "Chair Number";
+"ContactUs" = "Would you like our concierge to contact you about %@?";
+"WouldYouLike" = "Would you like our concierge to assist you with this reservation?";
+"SelectPayment" = " Select Payment Option";
+"UploadPhoto" = "Upload Photo Id";
+"EnterUnitNumber" = "Enter Unit Number";
+"PleaseSelectImage" = "Please select an image";
+//ERRORMESSAGE
+"No response" = "No response";
+"Incorrect response" = "Incorrect response";
+"Please try again." = "Please try again.";
+"Invalid Request." = "Invalid Request.";
+"No record found." = "No record found.";
+"Camera not available."="Camera not available.";
+"Photos not available."="Photos not available.";
+"Facebook app not available." = "Kindly install Facebook app.";
+"Twitter app not available." = "Kindly install Twitter app.";
+"Instagram app not available." = "Kindly install Instagram app.";
+"No image selected" = "No image selected.";
+"No type selected" = "No type selected.";
+"Would you like to get digital key ?" = "We are about to generate a digital room key for you to open the door using your phone. Would you like to continue?";
+"Please contact front desk for room upgradation" = "Please contact front desk for room upgradation";
+
+//Lock Error Codes
+
+"error_endpoint_deleted" = "It looks like you have checked out, please contact front desk.";
+"GuestCardOverridden" = "New key will be provided to you, please contact front desk for further information.";
+"CardNotValidYet" = "The generated digital room key in not valid yet, please wait and try again.";
+"CardHasExpired" = "Looks like your digital room key has expired, please contact front desk for further information.";
+"CardCancelled" = "Your digital room key has been cancelled, please contact front desk for further information.";
+"CardUsergroupBlocked" = "The digital key for your assigned room has been blocked, please contact front desk for further information.";
+"NoAccessToThisRoom" = "Please check the room number, it looks like you are at wrong room number.";
+"WrongSystemNumberOnCard" = "This digital room key is not valid for this property, please contact front desk for further information.";
+"NotValidAtThisTime" = "The digital room key is not valid at this time please try later.";
+"DoorUnitDeadBolted" = "The assigned digital room key has been blocked, please contact front desk for further information.";
+"NotValidDueToPrivacyStatus" = "The assigned digital room key has been blocked, please contact front desk for further information.";
+"AccessDeniedDueToBatteryAlarm" = "The assigned digital room key has been disabled as door battery is low, please contact front desk for further information.";
+"NotValidDueToAntiPassback" = "The assigned digital room key has been blocked, please contact front desk for further information.";
+"NotValidDueToDoorNotClosed" = "The room door does not seems to be locked properly.";
+"WrongPIN" = "The assigned digital room key has been refused, please contact front desk for further information.";
+"CommandNotValidForThisLock" = "The assigned digital room key has been blocked, please contact front desk for further information.";
+
+

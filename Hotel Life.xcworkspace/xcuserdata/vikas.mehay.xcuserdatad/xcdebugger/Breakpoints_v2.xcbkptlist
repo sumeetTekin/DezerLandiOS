@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/BusinessLayer/BusinessLayer.swift"
+            timestampString = "565075908.0888"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "679"
+            endingLineNumber = "679"
+            landmarkName = "soapCheckout(bookingNumber:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/Card/CheckInCardVC.swift"
+            timestampString = "549558218.992294"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "checkin()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/Card/CheckInCardVC.swift"
+            timestampString = "549558218.992772"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "checkin()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hotel_Life_Dev.CheckInCardVC.checkin() -&gt; ()"
+                  moduleName = "Hotel Life Dev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vikas.mehay/Documents/Hotelapp/Trumphotel_IOS/Hotel%20Life/Hotel%20Life/Controllers/Card/CheckInCardVC.swift"
+                  timestampString = "565075909.027833"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "593">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool, Swift.String) -&gt; () in Hotel_Life_Dev.CheckInCardVC.checkin() -&gt; ()"
+                  moduleName = "Hotel Life Dev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vikas.mehay/Documents/Hotelapp/Trumphotel_IOS/Hotel%20Life/Hotel%20Life/Controllers/Card/CheckInCardVC.swift"
+                  timestampString = "565075909.029856"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "43">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "malloc_error_break"
+            moduleName = "">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "malloc_error_break"
+                  moduleName = "libsystem_malloc.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/BusinessLayer/BusinessLayer.swift"
+            timestampString = "565075908.0889519"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "664"
+            endingLineNumber = "664"
+            landmarkName = "soapCheckin(bookingNumber:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hotel_Life_Dev.BusinessLayer.soapCheckin(bookingNumber: Swift.Optional&lt;Swift.String&gt;, _: (Swift.Bool, Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "Hotel Life Dev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vikas.mehay/Documents/Hotelapp/Trumphotel_IOS/Hotel%20Life/Hotel%20Life/BusinessLayer/BusinessLayer.swift"
+                  timestampString = "565075909.035598"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "664"
+                  endingLineNumber = "664"
+                  offsetFromSymbolStart = "1718">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hotel_Life_Dev.BusinessLayer.soapCheckin(bookingNumber: Swift.Optional&lt;Swift.String&gt;, _: (Swift.Bool, Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "Hotel Life Dev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vikas.mehay/Documents/Hotelapp/Trumphotel_IOS/Hotel%20Life/Hotel%20Life/BusinessLayer/BusinessLayer.swift"
+                  timestampString = "565075909.037396"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "664"
+                  endingLineNumber = "664"
+                  offsetFromSymbolStart = "2083">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/CheckInCheckOut/CheckInVC.swift"
+            timestampString = "549457770.159638"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "getCheckinDetail(reservationNo:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/CheckInCheckOut/CheckInVC.swift"
+            timestampString = "549457770.16012"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "getCheckinDetail(reservationNo:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hotel_Life_Dev.CheckInVC.getCheckinDetail(reservationNo: Swift.String) -&gt; ()"
+                  moduleName = "Hotel Life Dev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vikas.mehay/Documents/Hotelapp/Trumphotel_IOS/Hotel%20Life/Hotel%20Life/Controllers/CheckInCheckOut/CheckInVC.swift"
+                  timestampString = "565075909.0506769"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "695">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool, Swift.String, Swift.Array&lt;Hotel_Life_Dev.Booking&gt;) -&gt; () in Hotel_Life_Dev.CheckInVC.getCheckinDetail(reservationNo: Swift.String) -&gt; ()"
+                  moduleName = "Hotel Life Dev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vikas.mehay/Documents/Hotelapp/Trumphotel_IOS/Hotel%20Life/Hotel%20Life/Controllers/CheckInCheckOut/CheckInVC.swift"
+                  timestampString = "565075909.052896"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "61">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/CheckInCheckOut/CheckOutVC.swift"
+            timestampString = "549565631.5835609"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "checkOut()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/CheckInCheckOut/CheckOutVC.swift"
+            timestampString = "549565631.5836411"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "getBill()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/CheckInCheckOut/CheckOutVC.swift"
+            timestampString = "549565631.5837131"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "getBill()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/BusinessLayer/BusinessLayer.swift"
+            timestampString = "565075908.089089"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "511"
+            endingLineNumber = "511"
+            landmarkName = "checkinEnquiry(bookingNumber:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/Home/HomeVC.swift"
+            timestampString = "564920266.865409"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "updateCheckinEnquiry()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hotel_Life_Dev.HomeVC.updateCheckinEnquiry() -&gt; ()"
+                  moduleName = "Hotel Life Dev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vikas.mehay/Documents/Hotelapp/Trumphotel_IOS/Hotel%20Life/Hotel%20Life/Controllers/Home/HomeVC.swift"
+                  timestampString = "565075909.072999"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.String, Swift.Optional&lt;Hotel_Life_Dev.Booking&gt;) -&gt; () in Hotel_Life_Dev.HomeVC.updateCheckinEnquiry() -&gt; ()"
+                  moduleName = "Hotel Life Dev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vikas.mehay/Documents/Hotelapp/Trumphotel_IOS/Hotel%20Life/Hotel%20Life/Controllers/Home/HomeVC.swift"
+                  timestampString = "565075909.07489"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "59">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/BusinessLayer/BusinessLayer.swift"
+            timestampString = "565075908.089164"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "696"
+            endingLineNumber = "696"
+            landmarkName = "soapCheckout(bookingNumber:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/BusinessLayer/BusinessLayer.swift"
+            timestampString = "565075908.089206"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "667"
+            endingLineNumber = "667"
+            landmarkName = "soapCheckin(bookingNumber:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/Card/CheckInCardVC.swift"
+            timestampString = "549558218.9940521"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "checkinSOAP()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/Card/CheckInCardVC.swift"
+            timestampString = "549558218.994279"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "checkinSOAP()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hotel_Life_Dev.CheckInCardVC.checkinSOAP() -&gt; ()"
+                  moduleName = "Hotel Life Dev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vikas.mehay/Documents/Hotelapp/Trumphotel_IOS/Hotel%20Life/Hotel%20Life/Controllers/Card/CheckInCardVC.swift"
+                  timestampString = "565075909.090907"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "334">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool, Swift.String) -&gt; () in Hotel_Life_Dev.CheckInCardVC.checkinSOAP() -&gt; ()"
+                  moduleName = "Hotel Life Dev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vikas.mehay/Documents/Hotelapp/Trumphotel_IOS/Hotel%20Life/Hotel%20Life/Controllers/Card/CheckInCardVC.swift"
+                  timestampString = "565075909.092782"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "41">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/CheckInCheckOut/CheckOutVC.swift"
+            timestampString = "549565631.583931"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "checkOut()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hotel_Life_Dev.CheckOutVC.checkOut() -&gt; ()"
+                  moduleName = "Hotel Life Dev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vikas.mehay/Documents/Hotelapp/Trumphotel_IOS/Hotel%20Life/Hotel%20Life/Controllers/CheckInCheckOut/CheckOutVC.swift"
+                  timestampString = "565075909.097571"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "1034">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool, Swift.String, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Hotel_Life_Dev.CheckOutVC.checkOut() -&gt; ()"
+                  moduleName = "Hotel Life Dev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vikas.mehay/Documents/Hotelapp/Trumphotel_IOS/Hotel%20Life/Hotel%20Life/Controllers/CheckInCheckOut/CheckOutVC.swift"
+                  timestampString = "565075909.099631"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/Preview/AlohaOrderPreview.swift"
+            timestampString = "565004734.294871"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "235"
+            endingLineNumber = "235"
+            landmarkName = "cancelAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/AppDelegate.swift"
+            timestampString = "565071823.235016"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "580"
+            endingLineNumber = "580"
+            landmarkName = "modifySuggestion(objNotification:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Model/OperatingHours.swift"
+            timestampString = "557660229.486235"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "getDateArray()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/RestaurantInformationVC/RestaurantMenuVC.swift"
+            timestampString = "554989936.205574"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/CustomTable/CustomTableVC.swift"
+            timestampString = "556541861.7244329"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "infoAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Model/OperatingHours.swift"
+            timestampString = "557660229.486354"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "init(dictionary:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Model/OperatingHours.swift"
+            timestampString = "557660229.486405"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "init(dictionary:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Utility/OrderController.swift"
+            timestampString = "557660229.486452"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "modifyOrder(menu_item:reservation_model:screenType:viewController:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Utility/OrderController.swift"
+            timestampString = "557660229.486498"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "modifyOrder(menu_item:reservation_model:screenType:viewController:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hotel_Life_Dev.OrderController.modifyOrder(menu_item: Swift.Optional&lt;Hotel_Life_Dev.Menu&gt;, reservation_model: Swift.Optional&lt;Hotel_Life_Dev.ReservationModel&gt;, screenType: Hotel_Life_Dev.SubMenuDataType, viewController: __C.UIViewController) -&gt; ()"
+                  moduleName = "Hotel Life Dev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vikas.mehay/Documents/Hotelapp/Trumphotel_IOS/Hotel%20Life/Hotel%20Life/Utility/OrderController.swift"
+                  timestampString = "565075909.135708"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "3113">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Bool, Swift.String, Swift.Optional&lt;Swift.Array&lt;Hotel_Life_Dev.Tab&gt;&gt;) -&gt; () in Hotel_Life_Dev.OrderController.modifyOrder(menu_item: Swift.Optional&lt;Hotel_Life_Dev.Menu&gt;, reservation_model: Swift.Optional&lt;Hotel_Life_Dev.ReservationModel&gt;, screenType: Hotel_Life_Dev.SubMenuDataType, viewController: __C.UIViewController) -&gt; ()"
+                  moduleName = "Hotel Life Dev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vikas.mehay/Documents/Hotelapp/Trumphotel_IOS/Hotel%20Life/Hotel%20Life/Utility/OrderController.swift"
+                  timestampString = "565075909.137439"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/ConfirmationVC/ConfirmationVC.swift"
+            timestampString = "557660229.4865479"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "modifyAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/BusinessLayer/BusinessLayer.swift"
+            timestampString = "565075908.089522"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1967"
+            endingLineNumber = "1967"
+            landmarkName = "alohaOrderConfirm(order:orderMode:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/BusinessLayer/BusinessLayer.swift"
+            timestampString = "565075908.089559"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1968"
+            endingLineNumber = "1968"
+            landmarkName = "alohaOrderConfirm(order:orderMode:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

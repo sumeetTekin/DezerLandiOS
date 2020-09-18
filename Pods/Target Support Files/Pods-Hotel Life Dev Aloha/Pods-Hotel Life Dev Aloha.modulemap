@@ -1,0 +1,6 @@
+framework module Pods_Hotel_Life_Dev_Aloha {
+  umbrella header "Pods-Hotel Life Dev Aloha-umbrella.h"
+
+  export *
+  module * { export * }
+}

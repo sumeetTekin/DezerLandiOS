@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "45CB7147-EF52-4005-BC4B-6C2626CBD981"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A8E7A7E-FE24-4F09-A278-DC5DC23BDC57"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/FSCalendar/FSCalendar/FSCalendarStickyHeader.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "-setMonth:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "201158C1-6F11-400E-8F4E-12EFFAC4F3D9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/SignIn&amp;SignUp/PalaceRoyalSignInVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "signUp()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "201158C1-6F11-400E-8F4E-12EFFAC4F3D9 - 61e8485c79b41361"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dezerland_Demo.PalaceRoyalSignInVC.signUp() -&gt; ()"
+                  moduleName = "Dezerland Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitverma/Documents/Dezerland/Dezerland/Hotel%20Life/Controllers/SignIn&amp;SignUp/PalaceRoyalSignInVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "165"
+                  endingLineNumber = "165"
+                  offsetFromSymbolStart = "596">
+               </Location>
+               <Location
+                  uuid = "201158C1-6F11-400E-8F4E-12EFFAC4F3D9 - b2360cb82979918d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Dezerland_Demo.PalaceRoyalSignInVC.signUp() -&gt; ()"
+                  moduleName = "Dezerland Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitverma/Documents/Dezerland/Dezerland/Hotel%20Life/Controllers/SignIn&amp;SignUp/PalaceRoyalSignInVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "169"
+                  endingLineNumber = "169"
+                  offsetFromSymbolStart = "234">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "660D64F0-B0FB-430E-8806-9CA41B807E23"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/SignIn&amp;SignUp/PalaceRoyalSignInVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A890C5A-05C6-4B3B-8688-452A35691601"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "setLaunchVCAsRootView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D48F9040-6197-405E-A63B-BE74E75E59AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "application(_:open:sourceApplication:annotation:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06E66048-B81F-4493-A6D9-1E692C7FD77F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "application(_:open:options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5993BF1-5A66-4753-87E7-890E8701A661"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/BaseController/BaseTabBarVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "setLanguage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25C164A6-CFCC-44EF-AF03-BD0B61CB0E02"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/SignIn&amp;SignUp/LaunchVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "212"
+            endingLineNumber = "212"
+            landmarkName = "signUp()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "25C164A6-CFCC-44EF-AF03-BD0B61CB0E02 - 5330af5fd9d413f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Dezerland_Demo.LaunchVC.signUp() -&gt; ()"
+                  moduleName = "Dezerland Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitverma/Documents/Dezerland/Dezerland/Hotel%20Life/Controllers/SignIn&amp;SignUp/LaunchVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "212"
+                  endingLineNumber = "212"
+                  offsetFromSymbolStart = "202">
+               </Location>
+               <Location
+                  uuid = "25C164A6-CFCC-44EF-AF03-BD0B61CB0E02 - a4d60711903c6201"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in Dezerland_Demo.LaunchVC.signUp() -&gt; ()"
+                  moduleName = "Dezerland Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitverma/Documents/Dezerland/Dezerland/Hotel%20Life/Controllers/SignIn&amp;SignUp/LaunchVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "213"
+                  endingLineNumber = "213"
+                  offsetFromSymbolStart = "158">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDA00E21-2042-416E-BDBA-27D260A29612"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/SignIn&amp;SignUp/SignUpVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "664"
+            endingLineNumber = "664"
+            landmarkName = "textFieldDidBeginEditing(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0A1A3EC-C6CC-4AA3-83FA-FD439DE2C4BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/SignIn&amp;SignUp/SignUpVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "675"
+            endingLineNumber = "675"
+            landmarkName = "textFieldDidBeginEditing(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0970E616-0D6E-4C78-92CC-A2F87525A1AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/SignIn&amp;SignUp/SignUpVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "321"
+            endingLineNumber = "321"
+            landmarkName = "nextAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FDEA825-FF3F-484A-8095-60CA2C526FE7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/BusinessLayer/BusinessLayer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1190"
+            endingLineNumber = "1190"
+            landmarkName = "getSubMenuFromDepartment(menuId:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C81EDB73-79C6-49CD-A0CF-C78861897325"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/CustomeViews/TableViewCells/SubMenuCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "configureLinkCell(indexPath:menuObj:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA3CC20F-E3C2-43C3-8BEA-ED1D5051965D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Model/Menu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "541"
+            endingLineNumber = "541"
+            landmarkName = "getItemsDict(menus:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17291877-AC8F-48B1-BC46-719C84E17BB3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/AuthrizeNetPaymentVC/PaymentViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "595"
+            endingLineNumber = "595"
+            landmarkName = "textChangeDelegate(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D518845D-5E6E-4222-B6F8-B8CC58B939D5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/DateTimeVC/DateTimeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "357"
+            endingLineNumber = "357"
+            landmarkName = "getTimeArray(date:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF778E3A-BA79-48F8-B8C4-80E0B4C40252"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/DateTimeVC/DateTimeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "301"
+            endingLineNumber = "301"
+            landmarkName = "getDateArray()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6DE81E12-C936-451F-906B-C8A94B20A8A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/DateTimeVC/DateTimeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "339"
+            endingLineNumber = "339"
+            landmarkName = "updateTimeValues(date:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24F02212-40E9-40B4-A029-3371F910E171"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/BusinessLayer/BusinessLayer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "681"
+            endingLineNumber = "681"
+            landmarkName = "soapCheckin(bookingNumber:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82001AD7-3768-43D3-8299-24522EC74B09"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Model/Booking.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "Booking"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "82001AD7-3768-43D3-8299-24522EC74B09 - 6d774ecb713fac88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dezerland_Demo.Booking.bookingNumber.getter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Dezerland Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitverma/Documents/Dezerland/Dezerland/Hotel%20Life/Model/Booking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "131">
+               </Location>
+               <Location
+                  uuid = "82001AD7-3768-43D3-8299-24522EC74B09 - 3666051b8ec64cbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dezerland_Demo.Booking.bookingNumber.setter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Dezerland Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitverma/Documents/Dezerland/Dezerland/Hotel%20Life/Model/Booking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "166">
+               </Location>
+               <Location
+                  uuid = "82001AD7-3768-43D3-8299-24522EC74B09 - 9ef446fd0ab7048d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dezerland_Demo.Booking.bookingNumber.modify : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Dezerland Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitverma/Documents/Dezerland/Dezerland/Hotel%20Life/Model/Booking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "82001AD7-3768-43D3-8299-24522EC74B09 - c966ae5c73019140"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dezerland_Demo.Booking.bookingNumber.modify : Swift.Optional&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Dezerland Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitverma/Documents/Dezerland/Dezerland/Hotel%20Life/Model/Booking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4A05916-9CE9-4774-934D-FE7D96D3B84A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/QrCodeScanner/SwiftQRScanner.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "320"
+            endingLineNumber = "320"
+            landmarkName = "setupCaptureSession(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D0D0FD4-B857-42BD-8C07-D90F3EF3BAF4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/CarDetail/CarDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CAE1A905-F9EC-48E0-B725-758767FDCBB0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/OrderHistory/OrderHistoryVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "261"
+            endingLineNumber = "261"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4FE364E-2014-48FC-899B-7C95DEDD8685"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/OrderHistory/OrderHistoryDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "598"
+            endingLineNumber = "598"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D4FE364E-2014-48FC-899B-7C95DEDD8685 - 2cd3ed9daac835c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dezerland_Demo.OrderHistoryDetailVC.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Dezerland Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitverma/Documents/Dezerland/Dezerland/Hotel%20Life/Controllers/OrderHistory/OrderHistoryDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "598"
+                  endingLineNumber = "598"
+                  offsetFromSymbolStart = "421">
+               </Location>
+               <Location
+                  uuid = "D4FE364E-2014-48FC-899B-7C95DEDD8685 - 2cd3ed9daac835c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dezerland_Demo.OrderHistoryDetailVC.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Dezerland Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitverma/Documents/Dezerland/Dezerland/Hotel%20Life/Controllers/OrderHistory/OrderHistoryDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "598"
+                  endingLineNumber = "598"
+                  offsetFromSymbolStart = "485">
+               </Location>
+               <Location
+                  uuid = "D4FE364E-2014-48FC-899B-7C95DEDD8685 - 2cd3ed9daac835c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dezerland_Demo.OrderHistoryDetailVC.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Dezerland Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitverma/Documents/Dezerland/Dezerland/Hotel%20Life/Controllers/OrderHistory/OrderHistoryDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "598"
+                  endingLineNumber = "598"
+                  offsetFromSymbolStart = "6515">
+               </Location>
+               <Location
+                  uuid = "D4FE364E-2014-48FC-899B-7C95DEDD8685 - 2cd3ed9daac835c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dezerland_Demo.OrderHistoryDetailVC.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Dezerland Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitverma/Documents/Dezerland/Dezerland/Hotel%20Life/Controllers/OrderHistory/OrderHistoryDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "598"
+                  endingLineNumber = "598"
+                  offsetFromSymbolStart = "9684">
+               </Location>
+               <Location
+                  uuid = "D4FE364E-2014-48FC-899B-7C95DEDD8685 - 2cd3ed9daac835c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dezerland_Demo.OrderHistoryDetailVC.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Dezerland Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitverma/Documents/Dezerland/Dezerland/Hotel%20Life/Controllers/OrderHistory/OrderHistoryDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "598"
+                  endingLineNumber = "598"
+                  offsetFromSymbolStart = "11430">
+               </Location>
+               <Location
+                  uuid = "D4FE364E-2014-48FC-899B-7C95DEDD8685 - 2cd3ed9daac835c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dezerland_Demo.OrderHistoryDetailVC.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Dezerland Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitverma/Documents/Dezerland/Dezerland/Hotel%20Life/Controllers/OrderHistory/OrderHistoryDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "598"
+                  endingLineNumber = "598"
+                  offsetFromSymbolStart = "15506">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D97CA555-43D3-4BEA-ACE2-0B8470490F93"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/Other/SubMenuVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF3B5D88-D2D8-4800-9282-0B5BF282C351"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hotel Life/Controllers/Home/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "563"
+            endingLineNumber = "563"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

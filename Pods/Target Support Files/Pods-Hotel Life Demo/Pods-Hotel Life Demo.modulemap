@@ -1,0 +1,6 @@
+framework module Pods_Hotel_Life_Demo {
+  umbrella header "Pods-Hotel Life Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}

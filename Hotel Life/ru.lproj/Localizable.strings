@@ -1,0 +1,222 @@
+/* 
+  Localizable.strings
+  Hotel Life
+
+  Created by jasvinders.singh on 9/26/17.
+  Copyright © 2017 jasvinders.singh. All rights reserved.
+*/
+
+//TITLE
+"Home" = "Главная";
+"Trump bucks" = "Трамп-бакс";
+"Dezer Bucks" = "Эти баксы";
+"How's your stay?" = "Вам здесь нравится?";
+"How's your experience?" = "Как твой\nопыт?";
+"Food" = "Питание";
+"Beverages" = "Напитки";
+"post_meridian" = "PM";
+"ante_meridian" = "AM";
+"Maintenance Request" = "Запрос на обслуживание";
+"Total" = "Всего";
+"Modify" = "Изменить";
+"Call Department" = "Call Department";
+"Order" = "Заказать";
+"Proceed" = "Продолжить";
+"Required" = "Обязательно";
+"Breakfast Menu" = "Меню завтрака";
+"Lunch Menu" = "Обеденное меню";
+"Dinner Menu" = "Меню ужина";
+"All day dining" = "Ужин круглосуточно";
+"Mobile Check Out" = "Мобильный Check Out";
+"Welcome" = "Добро пожаловать.";
+"Disclaimer" = "отказ";
+"AgreeTerms" = "Пожалуйста, соглашайтесь с условиями.";
+"NumberOfPeople" = "Число людей";
+"Therapist" = "Терапевт";
+"DailyEvent" = "Расписание ежедневных событий";
+"Room Number" = "Номер комнаты";
+"Sub Total" = "Промежуточный итог:";
+"Total Discount" = "Общая скидка:";
+"Sub Total After Discount" = "Итого после скидки:";
+"Tax" = "налог:";
+"Order Number" = "Номер заказа";
+
+"Order Status" = "Статус заказа:";
+"Preparation Time" = "Время подготовки:";
+"Order Time" = "Время заказа:";
+"Delivery Time" = "Срок поставки:";
+"StateTax" = "Государственный налог:";
+"ServiceCharge" = "Плата за обслуживание:";
+"DeliveryCharge" = "Плата за доставку:";
+"Duration" = "продолжительность: ";
+"Instructor" = "Требуется инструктор: ";
+"How Many" = "Сколько бы ты хотел?";
+"Checked out" = "Это бронирование было проверено. За дополнительной информацией обращайтесь к стойке регистрации.";
+"Room Charge" = "Оплата за комнату";
+"Credit Card" = "Кредитная карта";
+"Cash" = "Денежные средства";
+"HowToPay?" = "Как ты хочешь заплатить?";
+"Tenant" = "жилец";
+"Owner" = "владелец";
+"Resident Photo Id" = "Идентификатор фотографии";
+"Trump Palace Resident" = "Резидент Trump Palace";
+"Trump Royale Resident" = "Резидент Trump Royale";
+"Hotel Guest" = "Гость отеля";
+"BeachNote" = "Примечание. Каждая секция одна строка. Приблизительно 5 стульев в ширину.";
+"PickSection" = " Пожалуйста, выберите ближайший раздел, где вы сидите, чтобы мы могли вас найти ";
+"BeachLocation" = "Расположение пляжа";
+
+"Bowling Reservation" = "Боулинг Бронирование";
+"Reservation Name:" = "Название бронирования:";
+"Number of people:" = "Число людей:";
+"Name:" = "Имя:";
+"Email:" = "Электронное письмо:";
+"Duration:" = "Продолжительность:";
+"Date:" = "Свидание:";
+"Time:" = "Время:";
+"Model:" = "Модель:";
+"Make:" = "Делать:";
+"Year:" = "Год:";
+"Body Style:" = "Тип кузова:";
+"Transmission:" = "Передача инфекции:";
+"Description:" = "Описание:";
+"Movie:" = "Кино:";
+"Choose Date" = "Выберите дату";
+"Choose Time" = "Выберите время";
+"Kids:" = "Дети:";
+"Status" = "Положение дел";
+"Card Number" = "Номер карты";
+"Balance" = "Баланс";
+"Tickets" = "Билеты";
+"Bonus" = "Бонус";
+
+
+
+//PLACEHOLDER
+"Email" = "Электронная почта";
+"Password" = "Пароль";
+"Birthday (Month and Day)" = "День рождения (месяц и день)";
+"Anniversary (Month and Day)" = "Годовщина (месяц и день)";
+"Add Comment" = "Добавить комментарий";
+"Question" = "Question...";
+"Special Request" = "Введите специальный запрос...";
+"Select Occasion" = "Выберите Случай";
+"Select Duration" = "Выберите Продолжительность";
+"Select_Payment" = "Выберите вариант оплаты";
+"Unit Number" = "Номер единицы";
+"Choose Duration" = "Выберите Длительность";
+
+//BUTTON_TITLE
+"Update" = "Обновить";
+"Next" = "Далее";
+"Continue" = "Продолжить";
+"Confirm" = "подтвердить";
+
+"Close now" = "Закрыть сейчас";
+"Cancel" = "Отмена";
+"Submit" = "Отправить";
+"Change Request" = "Запрос на изменение";
+"Customer Support" = "Служба поддержки";
+"I_AGREE" = "Я согласен с этими положениями и условиями.";
+"Yes" = "Yes";
+"No" = "No";
+"Room Temprature" = "Комнатная температура";
+"Order History" = "История заказов";
+"Go Back" = "Возвращаться";
+"Add Card" = "Добавить карту";
+"Recharge" = "Перезарядка";
+
+//LOADER_TEXT
+"Loading" = "загрузка";
+"Updating" = "обновление";
+"Signing In" = "Вход в систему";
+"Signing Up" = "Подписывание";
+"Logging Out" = "Выход";
+
+//ALERTSTRING
+"Go Hotel Life" = "Go Hotel Life";
+"Error" = "ошибка";
+"Required" = "Обязательно";
+"OK" = "ОК";
+"Please enter a valid Name." = "Пожалуйста, введите верное имя.";
+"Please enter a valid email address." = "Пожалуйста, введите действительный адрес электронной почты.";
+"Please enter a valid phone number." = "Пожалуйста, введите действительный телефонный номер.";
+"Please enter a valid date in format MM/DD." = "Введите действительную дату в формате MM / DD.";
+"Please enter a valid city." = "Укажите действительный город.";
+"Please select a country." = "Выберите страну.";
+"Please enter at least 6 character password." = "Введите не менее 6 символов.";
+"Please enter a valid booking number." = "Введите действительный номер бронирования.";
+"Confirm Password is not matching with Password." = "Подтверждение пароля не совпадает с паролем.";
+"We have emailed you a link to reset your password." = "Мы отправили вам по электронной почте ссылку для сброса пароля.";
+"Select Language" = "Выберите язык";
+"English" = "Английский";
+"Spanish" = "Испанский";
+"Portuguese" = "Португальский";
+"Rusian" = "русский";
+"Cancel" = "Отмена";
+"In order to change the language, the App must be closed and reopened by you." = "Чтобы изменить язык, закройте и снова откройте приложение.";
+"App restart required" = "Требуется перезагрузка приложения";
+"Thanks for Feedback" = "Благодарим за отзыв";
+"You have reached to the maximum limit for this item." = "Вы достигли максимального предела для этого элемента.";
+"Thanks" = "благодаря";
+"Posted" = "Опубликовано";
+"Please select future Date & Time." = "Выберите будущие дату и время.";
+"Facebook email permission is required." = "Требуется разрешение электронной почты Facebook.";
+"Please select an item." = "Выберите элемент.";
+"Please enter required quantity." = "Введите необходимое количество.";
+"Please enter room number." = "Пожалуйста, введите номер";
+"Please enter your comment." = "Пожалуйста, введите свой комментарий.";
+"Please enter some text(Max. 140)." = "Введите текст (максимум 140).";
+"Please enter some comment." = "Введите комментарий.";
+"Please enter your chair number." = "Введите номер стула.";
+"Order not completed." = "Заказ не аннулируется, за дополнительной информацией обращайтесь к сотруднику.";
+"Order cancelled." = "Заказ отменен.";
+"Try again" = "Пожалуйста, попробуйте еще раз.";
+"DiscountText" = "Один раз только %@ скидка для бронирования через приложение.";
+"CancelOrder" = "Вы хотите отменить этот заказ?";
+"ChairRoomNumber" = "Номер стула/номера";
+"ChairNumber" = "Номер стула";
+"Date" = "Дата";
+"ContactUs" = "Вы хотите, чтобы наш консьерж связался с вами о %@?";
+"WouldYouLike" = "Вы хотите, чтобы наш консьерж помог вам в этом бронировании?";
+"SelectPayment" = " Выберите вариант оплаты";
+"UploadPhoto" = "Загрузить идентификатор фотографии";
+"EnterUnitNumber" = "Введите номер устройства";
+"PleaseSelectImage" = "Please select an image";
+//ERRORMESSAGE
+"No response" = "Нет ответа";
+"Incorrect response" = "некорректный ответа";
+"Please try again." = "Пожалуйста, попробуйте еще раз.";
+"Invalid Request." = "Неверный запрос.";
+"No record found." = "Запись не найдена.";
+"Camera not available."="Камера недоступна.";
+"Photos not available."="Фотографии недоступны.";
+"Facebook app not available." = "Приложение Facebook недоступно.";
+"Twitter app not available." = "Приложение Twitter недоступно.";
+"Instagram app not available." = "Приложение Instagram недоступно.";
+"No image selected" = "Не выбрано ни одного изображения";
+"No type selected" = "Не выбран тип";
+"Would you like to get digital key ?" = "Мы собираемся сгенерировать цифровой ключ от номера, чтобы вы могли открыть дверь с помощью телефона. Желаете ли вы продолжить?";
+"Please contact front desk for room upgradation" = "Пожалуйста, свяжитесь со стойкой регистрации для обновления номера";
+
+
+//Lock Error Codes
+
+"error_endpoint_deleted" = "Похоже, что вы проверили, пожалуйста, свяжитесь с ресепшн.";
+"GuestCardOverridden" = "Новый ключ будет предоставлен вам, пожалуйста, свяжитесь с сотрудниками стойки регистрации для получения дополнительной информации.";
+"CardNotValidYet" = "Сгенерированный цифровой ключ от номера еще не действителен, пожалуйста, подождите и повторите попытку";
+"CardHasExpired" = "Похоже, ваш цифровой ключ от номера истек, пожалуйста, свяжитесь с сотрудниками стойки регистрации для получения дополнительной информации";
+"CardCancelled" = "Ваш цифровой ключ от номера был аннулирован, пожалуйста, свяжитесь с сотрудниками стойки регистрации для получения дополнительной информации.";
+"CardUsergroupBlocked" = "Цифровой ключ для назначенного вам номера заблокирован. Пожалуйста, свяжитесь с сотрудниками стойки регистрации для получения дополнительной информации";
+"NoAccessToThisRoom" = "Пожалуйста, проверьте номер комнаты, похоже, вы ошиблись номером";
+"WrongSystemNumberOnCard" = "Этот цифровой ключ от номера недействителен для этого отеля. Пожалуйста, свяжитесь с сотрудниками стойки регистрации для получения дополнительной информации.";
+"NotValidAtThisTime" = "В настоящее время цифровой ключ от номера недействителен, пожалуйста, попробуйте позже.";
+"DoorUnitDeadBolted" = "Назначенный цифровой ключ от номера заблокирован. Пожалуйста, свяжитесь с сотрудниками стойки регистрации для получения дополнительной информации.";
+"NotValidDueToPrivacyStatus" = "Назначенный цифровой ключ от номера заблокирован. Пожалуйста, свяжитесь с сотрудниками стойки регистрации для получения дополнительной информации.";
+"NotValidDueToAntiPassback" = "Назначенный цифровой ключ от номера заблокирован. Пожалуйста, свяжитесь с сотрудниками стойки регистрации для получения дополнительной информации.";
+"CommandNotValidForThisLock" = "Назначенный цифровой ключ от номера заблокирован. Пожалуйста, свяжитесь с сотрудниками стойки регистрации для получения дополнительной информации.";
+"AccessDeniedDueToBatteryAlarm" = "Назначенный цифровой ключ от номера был отключен, так как батарея двери разряжена, пожалуйста, свяжитесь с администрацией для получения дополнительной информации";
+"NotValidDueToDoorNotClosed" = "Дверь в комнате, кажется, не заперта правильно.";
+"WrongPIN" = "В назначенном цифровом ключе от номера отказано. Пожалуйста, свяжитесь с сотрудниками стойки регистрации для получения дополнительной информации.";
+
+

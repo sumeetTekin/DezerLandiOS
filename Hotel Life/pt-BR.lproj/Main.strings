@@ -1,0 +1,249 @@
+
+/* Class = "UILabel"; text = "Dates"; ObjectID = "0FL-SJ-Uzc"; */
+"0FL-SJ-Uzc.text" = "Dates";
+
+/* Class = "UIButton"; normalTitle = "Redeem Points"; ObjectID = "1Rw-GC-hNX"; */
+"1Rw-GC-hNX.normalTitle" = "Resgatar pontos";
+
+/* Class = "UITextField"; placeholder = "Name on Card"; ObjectID = "2do-58-3bD"; */
+"2do-58-3bD.placeholder" = "Name on Card";
+
+/* Class = "UILabel"; text = "We have sent you an email with instructions to reset your password. Please check your e-mail."; ObjectID = "2eh-S8-tvg"; */
+"2eh-S8-tvg.text" = "We have sent you an email with instructions to reset your password. Please check your e-mail.";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "3NS-7y-LyS"; */
+"3NS-7y-LyS.text" = "Bem-vindo";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "4Ix-rB-gVy"; */
+"4Ix-rB-gVy.placeholder" = "E-mail";
+
+/* Class = "UIButton"; normalTitle = "No Thanks"; ObjectID = "4YX-Zd-XIe"; */
+"4YX-Zd-XIe.normalTitle" = "No Thanks";
+
+/* Class = "UILabel"; text = "What is your chair number?"; ObjectID = "4qs-vv-yKY"; */
+"4qs-vv-yKY.text" = "Qual é o seu número de cadeira?";
+
+/* Class = "UILabel"; text = "73F"; ObjectID = "5UT-lM-OYV"; */
+"5UT-lM-OYV.text" = "73F";
+
+/* Class = "UILabel"; text = "Car Service"; ObjectID = "5nF-RY-f72"; */
+"5nF-RY-f72.text" = "Car Service";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "6TR-3a-oPg"; */
+"6TR-3a-oPg.placeholder" = "First name";
+
+/* Class = "UILabel"; text = "View Bill"; ObjectID = "6th-s8-5U7"; */
+"6th-s8-5U7.text" = "View Bill";
+
+/* Class = "UIButton"; normalTitle = "Join"; ObjectID = "6w8-jf-ZSn"; */
+"6w8-jf-ZSn.normalTitle" = "Junte-se";
+
+/* Class = "UINavigationItem"; title = "Build My Profile"; ObjectID = "8FP-Ia-GS2"; */
+"8FP-Ia-GS2.title" = "Build My Profile";
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "8tS-cl-kUo"; */
+"8tS-cl-kUo.normalTitle" = "Reset Password";
+
+/* Class = "UIButton"; normalTitle = "Request Car"; ObjectID = "9Ub-dB-8bn"; */
+"9Ub-dB-8bn.normalTitle" = "Request Car";
+
+/* Class = "UILabel"; text = "Your Points"; ObjectID = "9sJ-Hh-3Ft"; */
+"9sJ-Hh-3Ft.text" = "Seus pontos";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "AY6-d0-tOK"; */
+"AY6-d0-tOK.placeholder" = "E-mail";
+
+/* Class = "UITextField"; placeholder = "CVV"; ObjectID = "BP3-3h-8cr"; */
+"BP3-3h-8cr.placeholder" = "CVV";
+
+/* Class = "UITextView"; text = "Leave a comment..."; ObjectID = "BU6-MU-dSu"; */
+"BU6-MU-dSu.text" = "Leave a comment...";
+
+/* Class = "UILabel"; text = "Aug 28, 2017 - Sep 3, 2017"; ObjectID = "CGh-Q2-mx3"; */
+"CGh-Q2-mx3.text" = "Nov 1, 2017 - Nov 5, 2017";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "Ep5-MS-MDD"; */
+"Ep5-MS-MDD.placeholder" = "City";
+
+/* Class = "UILabel"; text = "Deluxe Suite"; ObjectID = "Etp-DI-YUD"; */
+"Etp-DI-YUD.text" = "Deluxe Suite";
+
+/* Class = "UILabel"; text = "Go Hotel Life"; ObjectID = "GJs-rV-43a"; */
+"GJs-rV-43a.text" = "Go Hotel Life";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "HUW-9q-h8F"; */
+"HUW-9q-h8F.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "How's your stay?"; ObjectID = "HXc-qS-rUe"; */
+"HXc-qS-rUe.text" = "Como está a sua estadia?";
+
+/* Class = "UILabel"; text = "Thanks for signing up"; ObjectID = "LeD-Kj-qNU"; */
+"LeD-Kj-qNU.text" = "Thanks for signing up";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "Lf2-CB-v0h"; */
+"Lf2-CB-v0h.placeholder" = "E-mail";
+
+/* Class = "UILabel"; text = "menu label"; ObjectID = "M1v-sq-DgN"; */
+"M1v-sq-DgN.text" = "menu label";
+
+/* Class = "UITextField"; placeholder = "Enter Booking Confirmation Number"; ObjectID = "MPM-Hf-aTp"; */
+"MPM-Hf-aTp.placeholder" = "Enter Booking Confirmation Number";
+
+/* Class = "UIButton"; normalTitle = "Digital Room Key"; ObjectID = "O6Y-Kf-7wK"; */
+"O6Y-Kf-7wK.normalTitle" = "Digital Room Key";
+
+/* Class = "UIButton"; normalTitle = "Upgrade for $49 more per night"; ObjectID = "OAK-g6-bd1"; */
+"OAK-g6-bd1.normalTitle" = "Upgrade for $49 more per night";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Ou8-4Z-hOj"; */
+"Ou8-4Z-hOj.normalTitle" = "Next";
+
+/* Class = "UITextField"; placeholder = "Country"; ObjectID = "Qzb-ne-ngs"; */
+"Qzb-ne-ngs.placeholder" = "Country";
+
+/* Class = "UILabel"; text = "Points"; ObjectID = "RKt-E3-Srm"; */
+"RKt-E3-Srm.text" = "Pontos";
+
+/* Class = "UITextField"; placeholder = "Birthday (dd/mm)"; ObjectID = "RNI-al-3LK"; */
+"RNI-al-3LK.placeholder" = "Birthday (Month and Day)";
+
+/* Class = "UIButton"; normalTitle = "Contact Us"; ObjectID = "SRc-pn-7hp"; */
+"SRc-pn-7hp.normalTitle" = "Continue";
+
+/* Class = "UIButton"; normalTitle = "Check Out"; ObjectID = "TMK-48-Sc8"; */
+"TMK-48-Sc8.normalTitle" = "Check Out";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Tnf-9V-Cs2"; */
+"Tnf-9V-Cs2.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Sub Menu"; ObjectID = "UKE-s7-Xpj"; */
+"UKE-s7-Xpj.text" = "Sub Menu";
+
+/* Class = "UITabBarItem"; title = "Worst"; ObjectID = "UpQ-p0-AUW"; */
+"UpQ-p0-AUW.title" = "Worst";
+
+/* Class = "UIButton"; normalTitle = "Check In"; ObjectID = "VCP-9h-1Ut"; */
+"VCP-9h-1Ut.normalTitle" = "Check In";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "VbZ-dZ-8Dr"; */
+"VbZ-dZ-8Dr.normalTitle" = "Entrar no sistema";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WC5-yd-zfW"; */
+"WC5-yd-zfW.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XPE-Zs-eJh"; */
+"XPE-Zs-eJh.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Save and Continue"; ObjectID = "XyI-iH-lVr"; */
+"XyI-iH-lVr.normalTitle" = "Save and Continue";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "Z1s-ys-c7m"; */
+"Z1s-ys-c7m.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cHj-he-BIX"; */
+"cHj-he-BIX.text" = "Label";
+
+/* Class = "UILabel"; text = "menu label"; ObjectID = "cUJ-Fa-CvI"; */
+"cUJ-Fa-CvI.text" = "menu label";
+
+/* Class = "UIButton"; normalTitle = "      Sign In with Facebook"; ObjectID = "cvN-y2-mn3"; */
+"cvN-y2-mn3.normalTitle" = "  Entrar no sistema com os dados do Facebook";
+
+/* Class = "UILabel"; text = "John!"; ObjectID = "dcu-2D-VW6"; */
+"dcu-2D-VW6.text" = "John!";
+
+/* Class = "UILabel"; text = "Valet"; ObjectID = "gg9-x3-Wzq"; */
+"gg9-x3-Wzq.text" = "Valete";
+
+/* Class = "UILabel"; text = "xxxx - xxxx - xxxx - 8009"; ObjectID = "gnj-S1-sEo"; */
+"gnj-S1-sEo.text" = "xxxx - xxxx - xxxx - 8009";
+
+/* Class = "UILabel"; text = "Hi John"; ObjectID = "hEA-yD-xEC"; */
+"hEA-yD-xEC.text" = "Hi John";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "hwN-gE-uKU"; */
+"hwN-gE-uKU.placeholder" = "Phone Number";
+
+/* Class = "UILabel"; text = "Suite #203"; ObjectID = "iFD-vJ-flM"; */
+"iFD-vJ-flM.text" = "Suite #203";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iG9-4E-VoY"; */
+"iG9-4E-VoY.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Bad"; ObjectID = "iaC-uh-jvo"; */
+"iaC-uh-jvo.title" = "Bad";
+
+/* Class = "UILabel"; text = "How can I earn points?"; ObjectID = "jwV-K6-W1s"; */
+"jwV-K6-W1s.text" = "Como posso ganhar pontos?";
+
+/* Class = "UILabel"; text = "Do you want to upgrade your room?"; ObjectID = "lOl-4C-5bS"; */
+"lOl-4C-5bS.text" = "Do you want to upgrade your room?";
+
+/* Class = "UILabel"; text = "powered by"; ObjectID = "n4T-Dl-AQo"; */
+"n4T-Dl-AQo.text" = "distribuído por";
+
+/* Class = "UILabel"; text = "Treat yourself"; ObjectID = "nns-LM-2K5"; */
+"nns-LM-2K5.text" = "Treat yourself";
+
+/* Class = "UILabel"; text = "Credit Card Pre-Authorization"; ObjectID = "ntl-FE-pqG"; */
+"ntl-FE-pqG.text" = "Credit Card Pre-Authorization";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "o5y-MU-5RL"; */
+"o5y-MU-5RL.normalTitle" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Unable to Sign In?"; ObjectID = "oDH-Hb-HWU"; */
+"oDH-Hb-HWU.normalTitle" = "Não está conseguindo entrar no sistema?";
+
+/* Class = "UITabBarItem"; title = "Good"; ObjectID = "pAh-UY-ekf"; */
+"pAh-UY-ekf.title" = "Good";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "pFF-fY-aUV"; */
+"pFF-fY-aUV.normalTitle" = "Entrar no sistema";
+
+/* Class = "UILabel"; text = "menu label"; ObjectID = "q5n-0g-sMa"; */
+"q5n-0g-sMa.text" = "menu label";
+
+/* Class = "UIButton"; normalTitle = "Submit Feedback"; ObjectID = "qTZ-yb-hbp"; */
+"qTZ-yb-hbp.normalTitle" = "Enviar Comentários";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "s22-g3-kxj"; */
+"s22-g3-kxj.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "mm / yy"; ObjectID = "s5j-4h-hQN"; */
+"s5j-4h-hQN.placeholder" = "mm / yy";
+
+/* Class = "UIButton"; normalTitle = "Upgrade"; ObjectID = "t80-n2-gjy"; */
+"t80-n2-gjy.normalTitle" = "Upgrade";
+
+/* Class = "UITabBarItem"; title = "Normal"; ObjectID = "teP-Zc-RKy"; */
+"teP-Zc-RKy.title" = "Normal";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tkr-A4-ycB"; */
+"tkr-A4-ycB.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Enter Your Chair Number"; ObjectID = "u4c-pg-oZF"; */
+"u4c-pg-oZF.placeholder" = "Enter Your Chair Number";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "wE0-TU-CQE"; */
+"wE0-TU-CQE.normalTitle" = "Change";
+
+/* Class = "UITextField"; placeholder = "Enter Ticket Number"; ObjectID = "wbu-qn-tnS"; */
+"wbu-qn-tnS.placeholder" = "Enter Ticket Number";
+
+/* Class = "UITextField"; placeholder = "Card Number"; ObjectID = "xW0-h6-93D"; */
+"xW0-h6-93D.placeholder" = "Card Number";
+
+/* Class = "UILabel"; text = "9000"; ObjectID = "xbR-56-3SA"; */
+"xbR-56-3SA.text" = "9000";
+
+/* Class = "UIButton"; normalTitle = "+ Add a new card"; ObjectID = "z1T-qM-yKg"; */
+"z1T-qM-yKg.normalTitle" = "+ Add a new card";
+
+/* Class = "UITabBarItem"; title = "Best"; ObjectID = "zDE-Vu-JgD"; */
+"zDE-Vu-JgD.title" = "Best";
+
+/* Class = "UILabel"; text = "Thanks for Request"; ObjectID = "zeg-Qs-dw0"; */
+"zeg-Qs-dw0.text" = "Thanks for Request";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "zrA-QY-laG"; */
+"zrA-QY-laG.normalTitle" = "Continue";

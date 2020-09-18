@@ -1,0 +1,435 @@
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "06O-3y-7Gi"; */
+"06O-3y-7Gi.text" = "Date";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "1aA-xC-H2w"; */
+"1aA-xC-H2w.text" = "1";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1i6-OJ-zMs"; */
+"1i6-OJ-zMs.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "2KG-Lm-kSr"; */
+"2KG-Lm-kSr.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "$100"; ObjectID = "2bx-ks-M9w"; */
+"2bx-ks-M9w.text" = "$100";
+
+/* Class = "UILabel"; text = "L-8"; ObjectID = "2nR-tU-gZ8"; */
+"2nR-tU-gZ8.text" = "L-8";
+
+/* Class = "UILabel"; text = "3:00 PM"; ObjectID = "3CS-3P-XQn"; */
+"3CS-3P-XQn.text" = "3:00 PM";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "3O8-01-Qar"; */
+"3O8-01-Qar.text" = "Date";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "3lj-ge-40b"; */
+"3lj-ge-40b.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "31-08-2017"; ObjectID = "41D-jl-DId"; */
+"41D-jl-DId.text" = "31-08-2017";
+
+/* Class = "UILabel"; text = "Day"; ObjectID = "5Fp-a3-SRW"; */
+"5Fp-a3-SRW.text" = "Day";
+
+/* Class = "UIButton"; normalTitle = "Reserve"; ObjectID = "62F-Gu-Mah"; */
+"62F-Gu-Mah.normalTitle" = "Reserve";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6JR-IC-pI1"; */
+"6JR-IC-pI1.text" = "Label";
+
+/* Class = "UILabel"; text = "Jetski"; ObjectID = "6pe-s1-4uG"; */
+"6pe-s1-4uG.text" = "Jetski";
+
+/* Class = "UILabel"; text = "$100"; ObjectID = "72G-hl-5sQ"; */
+"72G-hl-5sQ.text" = "$100";
+
+/* Class = "UILabel"; text = "min F&B spend"; ObjectID = "7a0-UH-Yd6"; */
+"7a0-UH-Yd6.text" = "min F&B spend";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7fC-Fc-ccu"; */
+"7fC-Fc-ccu.text" = "Label";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "87h-gM-1q8"; */
+"87h-gM-1q8.text" = "Total";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "8sW-nX-FOs"; */
+"8sW-nX-FOs.normalTitle" = "Confirm";
+
+/* Class = "UILabel"; text = "Confirmed"; ObjectID = "9eU-M2-qdk"; */
+"9eU-M2-qdk.text" = "Confirmed";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "9f5-kL-k0J"; */
+"9f5-kL-k0J.text" = "2";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "AXM-li-wkV"; */
+"AXM-li-wkV.text" = "Monday";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "AhT-dH-Ujv"; */
+"AhT-dH-Ujv.text" = "Date";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "Arb-UR-A41"; */
+"Arb-UR-A41.text" = "Total";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BL4-XH-CTv"; */
+"BL4-XH-CTv.text" = "Label";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "CYL-PK-8Qw"; */
+"CYL-PK-8Qw.text" = "2";
+
+/* Class = "UILabel"; text = "31-08-2017"; ObjectID = "CZ7-sA-jM9"; */
+"CZ7-sA-jM9.text" = "31-08-2017";
+
+/* Class = "UILabel"; text = "30"; ObjectID = "DaO-MX-ZFQ"; */
+"DaO-MX-ZFQ.text" = "30";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EK7-m8-8KX"; */
+"EK7-m8-8KX.text" = "Label";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "Ey9-9B-sd0"; */
+"Ey9-9B-sd0.text" = "Monday";
+
+/* Class = "UILabel"; text = "Day"; ObjectID = "GOB-SJ-rKt"; */
+"GOB-SJ-rKt.text" = "Day";
+
+/* Class = "UILabel"; text = "3:00 PM"; ObjectID = "H8C-rh-Due"; */
+"H8C-rh-Due.text" = "3:00 PM";
+
+/* Class = "UILabel"; text = "Confirmed"; ObjectID = "HBk-yg-QGq"; */
+"HBk-yg-QGq.text" = "Confirmed";
+
+/* Class = "UILabel"; text = "59:59"; ObjectID = "HF8-tK-jOJ"; */
+"HF8-tK-jOJ.text" = "59:59";
+
+/* Class = "UILabel"; text = "3:00 PM"; ObjectID = "HNE-mw-j9c"; */
+"HNE-mw-j9c.text" = "3:00 PM";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "He1-Of-JIh"; */
+"He1-Of-JIh.text" = "Label";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "J39-vf-CN8"; */
+"J39-vf-CN8.text" = "Date";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JqU-hC-I4J"; */
+"JqU-hC-I4J.text" = "Label";
+
+/* Class = "UILabel"; text = "Number of Kids"; ObjectID = "KN0-l3-Tuo"; */
+"KN0-l3-Tuo.text" = "Number of Kids";
+
+/* Class = "UILabel"; text = "Preferred Time"; ObjectID = "KQM-2m-dcB"; */
+"KQM-2m-dcB.text" = "Preferred Time";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "KUA-Ml-HDj"; */
+"KUA-Ml-HDj.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Kdf-qW-Egz"; */
+"Kdf-qW-Egz.text" = "0";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "KeJ-RJ-SYr"; */
+"KeJ-RJ-SYr.text" = "Time";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "L83-u0-VGO"; */
+"L83-u0-VGO.normalTitle" = "No";
+
+/* Class = "UITextField"; placeholder = "Select Type"; ObjectID = "LHF-FB-Zdw"; */
+"LHF-FB-Zdw.placeholder" = "Select Type";
+
+/* Class = "UILabel"; text = "Confirmation Number"; ObjectID = "Lf3-fi-zRu"; */
+"Lf3-fi-zRu.text" = "Confirmation Number";
+
+/* Class = "UILabel"; text = "$100"; ObjectID = "M9S-JC-bMX"; */
+"M9S-JC-bMX.text" = "$100";
+
+/* Class = "UILabel"; text = "U-001"; ObjectID = "MFx-L1-PTc"; */
+"MFx-L1-PTc.text" = "U-001";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "O3y-SF-vv9"; */
+"O3y-SF-vv9.text" = "0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OQp-G6-Xo1"; */
+"OQp-G6-Xo1.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Order"; ObjectID = "Ocz-PB-Ifd"; */
+"Ocz-PB-Ifd.normalTitle" = "Order";
+
+/* Class = "UILabel"; text = "Number of People"; ObjectID = "P36-P1-l13"; */
+"P36-P1-l13.text" = "Number of People";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PWN-xm-S0j"; */
+"PWN-xm-S0j.text" = "Label";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "QBV-GT-p4K"; */
+"QBV-GT-p4K.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Cancel Reservation"; ObjectID = "QGn-MV-AiV"; */
+"QGn-MV-AiV.normalTitle" = "Cancel Reservation";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "QOI-GY-zA9"; */
+"QOI-GY-zA9.normalTitle" = "Yes";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "QcL-HF-Fae"; */
+"QcL-HF-Fae.normalTitle" = "Continue";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "RH8-1S-qGw"; */
+"RH8-1S-qGw.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "Rqg-Ee-hc9"; */
+"Rqg-Ee-hc9.text" = "Total";
+
+/* Class = "UIButton"; normalTitle = "Reserve"; ObjectID = "S4b-uJ-HdU"; */
+"S4b-uJ-HdU.normalTitle" = "Reserve";
+
+/* Class = "UILabel"; text = "31-08-2017"; ObjectID = "SWL-RS-262"; */
+"SWL-RS-262.text" = "31-08-2017";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "SWk-tQ-hYn"; */
+"SWk-tQ-hYn.text" = "Total";
+
+/* Class = "UILabel"; text = "$0"; ObjectID = "TIi-dn-QAx"; */
+"TIi-dn-QAx.text" = "$0";
+
+/* Class = "UILabel"; text = "$100"; ObjectID = "Tq5-0E-jGd"; */
+"Tq5-0E-jGd.text" = "$100";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "UFP-MZ-Fb4"; */
+"UFP-MZ-Fb4.text" = "Time";
+
+/* Class = "UILabel"; text = "Chair Number"; ObjectID = "UG2-Pc-NEB"; */
+"UG2-Pc-NEB.text" = "Chair Number";
+
+/* Class = "UILabel"; text = "Jetski"; ObjectID = "USp-Gv-wSq"; */
+"USp-Gv-wSq.text" = "Jetski";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "V0w-Mh-nSD"; */
+"V0w-Mh-nSD.text" = "Time";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Voj-FO-Nr6"; */
+"Voj-FO-Nr6.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "W9u-MP-gDm"; */
+"W9u-MP-gDm.normalTitle" = "Confirm";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "WJ6-ch-FXQ"; */
+"WJ6-ch-FXQ.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "$100"; ObjectID = "Was-6I-u6M"; */
+"Was-6I-u6M.text" = "$100";
+
+/* Class = "UILabel"; text = "$100"; ObjectID = "WbB-Uf-t4o"; */
+"WbB-Uf-t4o.text" = "$100";
+
+/* Class = "UILabel"; text = "31-08-2017"; ObjectID = "XEg-pL-A3j"; */
+"XEg-pL-A3j.text" = "31-08-2017";
+
+/* Class = "UILabel"; text = "Preferred Date"; ObjectID = "Y8d-hp-lmY"; */
+"Y8d-hp-lmY.text" = "Preferred Date";
+
+/* Class = "UILabel"; text = "Chair Number"; ObjectID = "YgH-jf-hrU"; */
+"YgH-jf-hrU.text" = "Chair Number";
+
+/* Class = "UILabel"; text = "QR Code"; ObjectID = "Yhe-YG-RQl"; */
+"Yhe-YG-RQl.text" = "QR Code";
+
+/* Class = "UILabel"; text = "Jetski"; ObjectID = "Z2i-3L-V10"; */
+"Z2i-3L-V10.text" = "Jetski";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "ZKx-f5-BbC"; */
+"ZKx-f5-BbC.text" = "Total";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "a3s-yf-gge"; */
+"a3s-yf-gge.normalTitle" = "Confirm";
+
+/* Class = "UILabel"; text = "Jetski"; ObjectID = "aIb-TH-FNb"; */
+"aIb-TH-FNb.text" = "Jetski";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bWF-AA-qPz"; */
+"bWF-AA-qPz.text" = "Label";
+
+/* Class = "UILabel"; text = "Number of People"; ObjectID = "bXY-NN-ZKg"; */
+"bXY-NN-ZKg.text" = "Number of People";
+
+/* Class = "UILabel"; text = "Daily Event Schedule"; ObjectID = "car-mO-Rxe"; */
+"car-mO-Rxe.text" = "Daily Event Schedule";
+
+/* Class = "UILabel"; text = "Order Number"; ObjectID = "cdB-Sg-m0X"; */
+"cdB-Sg-m0X.text" = "Order Number";
+
+/* Class = "UILabel"; text = "31-08-2017"; ObjectID = "cdS-ZK-IQK"; */
+"cdS-ZK-IQK.text" = "31-08-2017";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "clW-lg-2zA"; */
+"clW-lg-2zA.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cs2-hq-Jye"; */
+"cs2-hq-Jye.text" = "Label";
+
+/* Class = "UILabel"; text = "Left to claim your day bed / cabana"; ObjectID = "dBQ-iQ-PPi"; */
+"dBQ-iQ-PPi.text" = "Left to claim your day bed / cabana";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dJ4-eW-EGy"; */
+"dJ4-eW-EGy.text" = "Label";
+
+/* Class = "UILabel"; text = "U-001"; ObjectID = "dd3-nR-nbg"; */
+"dd3-nR-nbg.text" = "U-001";
+
+/* Class = "UIButton"; normalTitle = "Edit Profile"; ObjectID = "dgW-44-CCF"; */
+"dgW-44-CCF.normalTitle" = "Edit Profile";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "e9b-oj-vzT"; */
+"e9b-oj-vzT.text" = "0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eVE-eE-QSO"; */
+"eVE-eE-QSO.text" = "Label";
+
+/* Class = "UILabel"; text = "Select a Preferred Date"; ObjectID = "fTv-ml-uPt"; */
+"fTv-ml-uPt.text" = "Select a Preferred Date";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "fUd-lg-Xjk"; */
+"fUd-lg-Xjk.text" = "Total";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fol-Vv-d97"; */
+"fol-Vv-d97.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fsg-vb-mOc"; */
+"fsg-vb-mOc.text" = "Label";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "fwG-iq-qaQ"; */
+"fwG-iq-qaQ.text" = "0";
+
+/* Class = "UILabel"; text = "$0"; ObjectID = "gxq-a5-5Rv"; */
+"gxq-a5-5Rv.text" = "$0";
+
+/* Class = "UILabel"; text = "Select a Preferred Time"; ObjectID = "h4a-9f-RuD"; */
+"h4a-9f-RuD.text" = "Select a Preferred Time";
+
+/* Class = "UILabel"; text = "Post on"; ObjectID = "hhf-JK-eOg"; */
+"hhf-JK-eOg.text" = "Post on";
+
+/* Class = "UILabel"; text = "$100"; ObjectID = "huL-TR-IyH"; */
+"huL-TR-IyH.text" = "$100";
+
+/* Class = "UILabel"; text = "Jetski"; ObjectID = "hxl-XD-iqv"; */
+"hxl-XD-iqv.text" = "Jetski";
+
+/* Class = "UILabel"; text = "Aug"; ObjectID = "i3Q-Ml-YzX"; */
+"i3Q-Ml-YzX.text" = "Aug";
+
+/* Class = "UILabel"; text = "Jetski"; ObjectID = "iEy-NC-m5n"; */
+"iEy-NC-m5n.text" = "Jetski";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "iRy-kB-6EQ"; */
+"iRy-kB-6EQ.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iUl-1z-Yxp"; */
+"iUl-1z-Yxp.text" = "Label";
+
+/* Class = "UILabel"; text = "WQGK53W"; ObjectID = "ieU-DE-cFR"; */
+"ieU-DE-cFR.text" = "WQGK53W";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "jha-NN-3Nn"; */
+"jha-NN-3Nn.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "31-08-2017"; ObjectID = "k5O-8p-eLx"; */
+"k5O-8p-eLx.text" = "31-08-2017";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "k6u-3R-N8Z"; */
+"k6u-3R-N8Z.text" = "Monday";
+
+/* Class = "UILabel"; text = "3:00 PM"; ObjectID = "kKj-dm-yrr"; */
+"kKj-dm-yrr.text" = "3:00 PM";
+
+/* Class = "UILabel"; text = "Beach/Pool Dining"; ObjectID = "lCj-wW-bLg"; */
+"lCj-wW-bLg.text" = "Beach/Pool Dining";
+
+/* Class = "UILabel"; text = "$100"; ObjectID = "m0H-e2-SKm"; */
+"m0H-e2-SKm.text" = "$100";
+
+/* Class = "UIButton"; normalTitle = "Order"; ObjectID = "m1B-g9-yeF"; */
+"m1B-g9-yeF.normalTitle" = "Order";
+
+/* Class = "UILabel"; text = "WQGK53W"; ObjectID = "nUa-Eg-cHC"; */
+"nUa-Eg-cHC.text" = "WQGK53W";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "nYp-VN-WkP"; */
+"nYp-VN-WkP.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Chair Number"; ObjectID = "ocp-sj-Vyw"; */
+"ocp-sj-Vyw.text" = "Chair Number";
+
+/* Class = "UITextView"; text = "Comment"; ObjectID = "pIf-E6-gTJ"; */
+"pIf-E6-gTJ.text" = "Comment";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "pYi-w8-PoC"; */
+"pYi-w8-PoC.text" = "Date";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "qAG-WG-15f"; */
+"qAG-WG-15f.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "qC6-4f-llO"; */
+"qC6-4f-llO.text" = "Time";
+
+/* Class = "UILabel"; text = "Jetski"; ObjectID = "qYJ-8B-oj8"; */
+"qYJ-8B-oj8.text" = "Jetski";
+
+/* Class = "UIButton"; normalTitle = "Submit Request"; ObjectID = "qbw-CM-44g"; */
+"qbw-CM-44g.normalTitle" = "Submit Request";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "rMn-F9-s5b"; */
+"rMn-F9-s5b.text" = "Monday";
+
+/* Class = "UIButton"; normalTitle = "Reserve"; ObjectID = "rik-VY-6pb"; */
+"rik-VY-6pb.normalTitle" = "Reserve";
+
+/* Class = "UILabel"; text = "Jetski"; ObjectID = "sFh-Rr-d55"; */
+"sFh-Rr-d55.text" = "Jetski";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "sn0-rl-Eg7"; */
+"sn0-rl-Eg7.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "uGn-ae-4Nt"; */
+"uGn-ae-4Nt.text" = "Monday";
+
+/* Class = "UILabel"; text = "$100"; ObjectID = "uXK-RZ-sxv"; */
+"uXK-RZ-sxv.text" = "$100";
+
+/* Class = "UILabel"; text = "30"; ObjectID = "vgZ-hs-6ry"; */
+"vgZ-hs-6ry.text" = "30";
+
+/* Class = "UIButton"; normalTitle = "Sign Out"; ObjectID = "voT-3X-2N5"; */
+"voT-3X-2N5.normalTitle" = "Sign Out";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "vqs-vY-mBi"; */
+"vqs-vY-mBi.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "Link"; ObjectID = "w2X-T7-INf"; */
+"w2X-T7-INf.text" = "Link";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xLp-40-RrS"; */
+"xLp-40-RrS.text" = "Label";
+
+/* Class = "UILabel"; text = "Confirmation Number"; ObjectID = "xPq-a9-wgg"; */
+"xPq-a9-wgg.text" = "Confirmation Number";
+
+/* Class = "UILabel"; text = "Order Number"; ObjectID = "xQg-GR-jT1"; */
+"xQg-GR-jT1.text" = "Order Number";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "xih-PN-p5E"; */
+"xih-PN-p5E.text" = "Date";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "y8U-hU-TVM"; */
+"y8U-hU-TVM.text" = "Label";
+
+/* Class = "UILabel"; text = "$100"; ObjectID = "y9C-Gx-KtE"; */
+"y9C-Gx-KtE.text" = "$100";
+
+/* Class = "UILabel"; text = "Beach/Pool Dining"; ObjectID = "yBK-v4-OtO"; */
+"yBK-v4-OtO.text" = "Beach/Pool Dining";
+
+/* Class = "UILabel"; text = "$400"; ObjectID = "ybY-Wn-WZX"; */
+"ybY-Wn-WZX.text" = "$400";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "yla-Nm-mCJ"; */
+"yla-Nm-mCJ.text" = "Total";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "yoI-6K-j4x"; */
+"yoI-6K-j4x.text" = "Date";

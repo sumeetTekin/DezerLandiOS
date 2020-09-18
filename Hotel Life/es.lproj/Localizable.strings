@@ -1,0 +1,219 @@
+/* 
+  Localizable.strings
+  Hotel Life
+
+  Created by jasvinders.singh on 9/26/17.
+  Copyright © 2017 jasvinders.singh. All rights reserved.
+*/
+
+//TITLE
+"Home" = "Inicio";
+"Trump bucks" = "Trump bucks";
+"Dezer Bucks" = "Dezer Bucks";
+"How's your stay?" = "¿Qué tal su estadía?";
+"How's your experience?" = "¿Cómo es tu\nexperiencia?";
+"Food" = "Alimentos";
+"Beverages" = "Bebidas";
+"post_meridian" = "PM";
+"ante_meridian" = "AM";
+"Maintenance Request" = "Solicitud de mantenimiento";
+"Total" = "Total";
+"Modify" = "Modificar";
+"Call Department" = "Call Department";
+"Order" = "Pedido";
+"Proceed" = "Proceder";
+"Required" = "Necesario";
+"Breakfast Menu" = "Menú del desayuno";
+"Lunch Menu" = "Menú del almuerzo";
+"Dinner Menu" = "Menú de la cena";
+"All day dining" = "Cena todo el día";
+"Mobile Check Out" = "Check out por celular";
+"Welcome" = "Bienvenido";
+"Disclaimer" = "Renuncia";
+"AgreeTerms" = "Por favor acepte los términos.";
+"NumberOfPeople" = "Número de personas";
+"Therapist" = "Terapeuta";
+"DailyEvent" = "Horario diario del evento";
+"Room Number" = "Número de habitación";
+"Sub Total" = "Sub Total:";
+"Total Discount" = "Descuento total:";
+"Sub Total After Discount" = "Sub Total después del descuento:";
+"Tax" = "Impuesto:";
+"Order Number" = "Número de orden";
+"Order Status" = "Estado del pedido:";
+"Preparation Time" = "Tiempo de preparación:";
+"Order Time" = "Tiempo de la orden:";
+"Delivery Time" = "El tiempo de entrega:";
+"StateTax" = "Impuesto estatal:";
+"ServiceCharge" = "Cargo por servicio:";
+"DeliveryCharge" = "Gastos de envío:";
+"Duration" = "Duración: ";
+"Instructor" = "Instructor requerido: ";
+"How Many" = "¿Cuantos te gustaria?";
+"Checked out" = "Esta reserva ha sido revisada. Para obtener más información, contáctese con amabilidad en la recepción.";
+"Room Charge" = "Precio de la habitación";
+"Credit Card" = "Tarjeta de crédito";
+"Cash" = "Efectivo";
+"HowToPay?" = "¿Cómo le gustaría pagar?";
+"Tenant" = "Inquilino";
+"Owner" = "Propietario";
+"Resident Photo Id" = "Identificación con foto residente";
+"Trump Palace Resident" = "Trump Palace Resident";
+"Trump Royale Resident" = "Trump Royale Residente";
+"Hotel Guest" = "Huesped del hotel";
+"BeachNote" = "Nota: cada sección una fila. Aproximadamente 5 sillas de ancho.";
+"PickSection" = " Elija la sección más cercana a donde está sentado para que podamos encontrarlo ";
+"BeachLocation" = "Ubicación de la playa";
+
+"Bowling Reservation" = "Reserva de bolos";
+"Reservation Name:" = "Nombre de reserva:";
+"Number of people:" = "Número de personas:";
+"Name:" = "Nombre:";
+"Email:" = "Correo electrónico:";
+"Duration:" = "Duración:";
+"Date:" = "Fecha:";
+"Time:" = "Hora:";
+"Model:" = "Modelo:";
+"Make:" = "Hacer:";
+"Year:" = "Año:";
+"Body Style:" = "Tipo de cuerpo:";
+"Transmission:" = "Transmisión:";
+"Description:" = "Descripción:";
+"Movie:" = "Película:";
+"Choose Date" = "Elegir fecha";
+"Choose Time" = "Elige hora";
+"Kids:" = "Niños:";
+"Status" = "Estado";
+"Card Number" = "Número de tarjeta";
+"Balance" = "Equilibrar";
+"Tickets" = "Entradas";
+"Bonus" = "Prima";
+
+
+
+//PLACEHOLDER
+"Email" = "E-mail";
+"Password" = "Contraseña";
+"Birthday (Month and Day)" = "Cumpleaños (mes y día)";
+"Anniversary (Month and Day)" = "Aniversario (mes y día)";
+
+"Add Comment" = "Agregar comentario";
+"Question" = "Question...";
+"Special Request" = "Ingrese solicitud especial...";
+"Select Occasion" = "Seleccione Ocasión";
+"Select Duration" = "Seleccionar duración";
+"Select_Payment" = "Seleccione la opción de pago";
+"Unit Number" = "Unidad numérica";
+"Choose Duration" = "Elegir duración";
+
+//BUTTON_TITLE
+"Update" = "Actualizar";
+"Next" = "Siguiente";
+"Continue" = "Continuar";
+"Confirm" = "Confirmar";
+"Close now" = "Cerrar ahora";
+"Cancel" = "Cancelar";
+"Submit" = "Enviar";
+"Change Request" = "Solicitud de cambio";
+"Customer Support" = "Atención al cliente";
+"I_AGREE" = "Estoy de acuerdo con estos términos y condiciones.";
+"Yes" = "Yes";
+"No" = "No";
+"Room Temprature" = "Temperatura ambiente";
+"Order History" = "Historial de pedidos";
+"Go Back" = "Regresa";
+"Add Card" = "Agregar tarjeta";
+"Recharge" = "Recargar";
+
+//LOADER_TEXT
+"Loading" = "Cargando";
+"Updating" = "Actualizando";
+"Signing In" = "Ingresando a su cuenta";
+"Signing Up" = "Registrándose";
+"Logging Out" = "Saliendo de su cuenta";
+
+//ALERTSTRING
+"Go Hotel Life" = "Go Hotel Life";
+"Error" = "Error";
+"Required" = "Necesario";
+"OK" = "De acuerdo";
+"Please enter a valid Name." = "Ingrese un nombre válido.";
+"Please enter a valid email address." = "Introduzca una dirección de correo electrónico válida.";
+"Please enter a valid phone number." = "Ingrese un número de teléfono válido.";
+"Please enter a valid date in format MM/DD." = "Ingrese una fecha válida en formato MM/DD.";
+"Please enter a valid city." = "Por favor ingrese una ciudad válida.";
+"Please select a country." = "Por favor seleccione un país.";
+"Please enter at least 6 character password." = "Ingrese una contraseña de al menos 6 caracteres.";
+"Please enter a valid booking number." = "Por favor ingrese un número de reserva válido.";
+"Confirm Password is not matching with Password." = "Confirme que la contraseña no coincida con la contraseña.";
+"We have emailed you a link to reset your password." = "Le hemos enviado un enlace por correo electrónico para restablecer su contraseña.";
+"Select Language" = "Seleccione el idioma";
+"English" = "Inglés";
+"Spanish" = "Español";
+"Portuguese" = "Portugués";
+"Russian" = "ruso";
+"Cancel" = "Cancelar";
+"In order to change the language, the App must be closed and reopened by you." = "Para cambiar el idioma, debe cerrar la aplicación y volver a abrirla.";
+"App restart required" = "Se requiere reiniciar la aplicación";
+"Thanks for Feedback" = "Gracias por su retroalimentación";
+"You have reached to the maximum limit for this item." = "Ha alcanzado el límite máximo para este artículo. ";
+"Thanks" = "Gracias";
+"Posted" = "Publicado";
+"Please select future Date & Time." = "Seleccione fecha y hora futuras.";
+"Facebook email permission is required." = "Se requiere permiso del correo electrónico de Facebook.";
+"Please select an item." = "Por favor seleccione un artículo.";
+"Please enter required quantity." = "Por favor ingrese la cantidad requerida.";
+"Please enter room number." = "Por favor ingrese el número de habitación";
+"Please enter your comment." = "Por favor ingrese su comentario.";
+"Please enter some text(Max. 140)." = "Ingrese un texto (máx. 140).";
+"Please enter some comment." = "Ingrese un comentario.";
+"Please enter your chair number." = "Ingrese su número de asiento.";
+"Order not completed." = "El pedido no se cancela. Para obtener más información, póngase en contacto con el miembro del personal.";
+"Order cancelled." = "Orden ha sido cancelada";
+"Try again" = "Por favor, inténtalo de nuevo.";
+"DiscountText" = "Una sola vez %@ de descuento para la reserva a través de la aplicación.";
+"CancelOrder" = "¿Quieres cancelar esta orden?";
+"ChairRoomNumber" = "Silla/Número de habitación";
+"ChairNumber" = "Número de la silla";
+"Date" = "Fecha";
+"ContactUs" = "¿Desea que nuestro conserje se contacte con usted acerca de %@?";
+"WouldYouLike" = "¿Desea que nuestro conserje lo ayude con esta reserva?";
+"SelectPayment" = " Seleccione la opción de pago";
+"UploadPhoto" = "Subir identificación con foto";
+"EnterUnitNumber" = "Ingrese el número de unidad";
+"PleaseSelectImage" = "Please select an image";
+//ERRORMESSAGE
+"No response" = "No hay respuesta";
+"Incorrect response" = "Incorrecto respuesta";
+"Please try again." = "Por favor intente de nuevo";
+"Invalid Request." = "Solicitud no válida.";
+"No record found." = "No se encontró ningún registro.";
+"Camera not available."="La cámara no está disponible.";
+"Photos not available."="Las fotos no están disponibles.";
+"Facebook app not available." = "La aplicación de Facebook no está disponible";
+"Twitter app not available." = "La aplicación de Twitter no está disponible.";
+"Instagram app not available." = "La aplicación de Instagram no está disponible.";
+"No image selected" = "No se seleccionó ninguna imagen";
+"No type selected" = "No se seleccionó ningún tipo.";
+"Would you like to get digital key ?" = "Estamos a punto de generar una llave digital para que pueda abrir la puerta con su teléfono. ¿Te gustaria continuar?";
+"Please contact front desk for room upgradation" = "Por favor, póngase en contacto con la recepción para la mejora de la habitación";
+
+//Lock Error Codes
+
+"error_endpoint_deleted" = "Parece que has salido, por favor contacta a la recepción.";
+"GuestCardOverridden" = "Se le proporcionará una nueva clave, póngase en contacto con la recepción para obtener más información.";
+"CardNotValidYet" = "La clave de sala digital generada aún no es válida, espere y vuelva a intentarlo.";
+"CardHasExpired" = "Parece que la llave de su habitación digital ha caducado, comuníquese con la recepción para más información.";
+"CardCancelled" = "Su llave digital de la habitación ha sido cancelada, comuníquese con la recepción para más información";
+"CardUsergroupBlocked" = "La llave digital para su habitación asignada ha sido bloqueada, comuníquese con la recepción para obtener más información.";
+"NoAccessToThisRoom" = "Verifique el número de la habitación, parece que está en el número de habitación equivocado.";
+"WrongSystemNumberOnCard" = "Esta llave digital de la habitación no es válida para esta propiedad, comuníquese con la recepción para obtener más información.";
+"NotValidAtThisTime" = "La llave de la sala digital no es válida en este momento, por favor intente más tarde.";
+"DoorUnitDeadBolted" = "La llave de la habitación digital asignada ha sido bloqueada, comuníquese con la recepción para obtener más información.";
+"NotValidDueToPrivacyStatus" = "La llave de la habitación digital asignada ha sido bloqueada, comuníquese con la recepción para obtener más información.";
+"NotValidDueToAntiPassback" = "La llave de la habitación digital asignada ha sido bloqueada, comuníquese con la recepción para obtener más información.";
+"CommandNotValidForThisLock" = "La llave de la habitación digital asignada ha sido bloqueada, comuníquese con la recepción para obtener más información.";
+"AccessDeniedDueToBatteryAlarm" = "La llave de la habitación digital asignada se ha desactivado debido a que la batería de la puerta tiene poca carga; comuníquese con la recepción para obtener más información.";
+"NotValidDueToDoorNotClosed" = "La puerta de la habitación no parece estar bien cerrada.";
+"WrongPIN" = "Se ha rechazado la llave de la habitación digital asignada. Póngase en contacto con la recepción para obtener más información.";
+
